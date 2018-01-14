@@ -7,6 +7,7 @@ More details: [Human Activity Recognition Using Smartphones Data Set](http://arc
 
 ## Variables
    * Mainly data frames representing the underlying training and test data.
+   * Only the Activity, Subject ID, and other performance variables related to standard deviation and mean were used for this analysis.
 
    
 ## Data
