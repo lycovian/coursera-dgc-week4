@@ -63,4 +63,6 @@ grp <- dat %>%
     group_by(subject, activity) %>%
     summarize_all(funs(mean))
 
-# View(grp[1:30,])
+
+# write tidy-dataframe out to csv
+write.csv(grp, "result.csv", row.names=FALSE)
