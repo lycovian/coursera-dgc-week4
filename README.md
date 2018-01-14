@@ -1,5 +1,12 @@
 # Coursera: Getting and Cleaning Data Week 4 Assignment
 
+## Assignment:
+   
+   * Read in UCI HAR Dataset
+   * Extract relevant columns
+   * Compute the mean on the resulting dataset.
+   * Write data out as a "tidy" dataframe.
+
 ## Files
 
    * `README.md`: This file.
