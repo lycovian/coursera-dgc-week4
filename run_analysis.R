@@ -65,4 +65,4 @@ grp <- dat %>%
 
 
 # write tidy-dataframe out to csv
-write.csv(grp, "result.csv", row.names=FALSE)
+write.csv(grp, "result.txt", row.names=FALSE)
